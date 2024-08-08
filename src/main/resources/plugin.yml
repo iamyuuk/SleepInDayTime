@@ -1,0 +1,4 @@
+name: SleepInDayTime
+version: '${version}'
+main: org.encinet.sleepindaytime.SleepInDayTime
+api-version: '1.20'
